@@ -16,7 +16,7 @@ You can do whatever you want with the .dll
 
 Just put the d3d9.dll in your bin64 folder.
 
-The d3d9.dll has a function to chainload other .dlls. To do this, simply rename the other .dll "d3d9_incqol_chainload.dll" (default)
+The d3d9.dll has a function to chainload other .dlls. To do this, simply rename the other .dll "d3d9_incqol_chain.dll" (default)
 
 This addon can also be chainloaded (tested with arcDPS)
 
