@@ -83,6 +83,11 @@ It can happen that some hotkeys are not correctly displayed, but they will work.
 
 Something like that happened when I had my OS language on german.
 
+### What if Gw2 gets patched?
+Normally the addon will still functioning correctly, but if something big changes and the addon can not start/work correctly it will tell you.
+
+If the addon is not functioning correctly you should not use it (disable selling in options or completely remove it from bin64 folder if its crashing your game and wait for an update).
+
 ### Can I use it on the 32-Bit client?
 No I only support the 64-Bit client
 
