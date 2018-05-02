@@ -3,7 +3,7 @@
 
 This is a release without a source.
 
-This addon is literally a hack like arcDPS and should not be public.
+This addon is literally a hack like arcDPS and should not be public source.
 
 It does nothing harmful and you can reverse engineer or decompile my .dll
 
@@ -39,7 +39,7 @@ The configs can be modified in the game.
 The log is just to there to find out where something went wrong.
 When you find bugs or your game crashes I need the .log and if you know how to reproduce the bug/crash.
 
-The addon doesn't need to be updated after every patch(just like arcDPS), when something is not working either the addon will tell you in the options window and the addon won't do anything.
+The addon doesn't need to be updated after every patch(just like arcDPS), when something is not working the addon will tell you in the options window and the addon won't do anything.
 
 If you have ideas for more quality of life improvements, just tell me and I will look at it.
 
@@ -57,6 +57,10 @@ Shift+Alt+1 to open the options window, where you can see all hotkeys
 
 Shift+Alt+2 to open the filter window
 
+Shift+Alt+3 to open the small filter window
+
+Shift+Alt+4 to add a filter with the current hovered item
+
 ### Some hotkeys are wrong?
 It can happen that some hotkeys are not correctly displayed.
 
@@ -69,12 +73,14 @@ No I only support the 64-Bit client
 Technically yes(tradingpost api if activated), but no other than gw2 servers.
 
 ### Can I get banned using this addon?
-Probably not, it does the same that arcDPS does. 
-You do not gain any advantages (build templates). 
+Probably not, it does the same that arcDPS build templates does. 
+You do not gain any advantages over another player(build templates). 
 The addon will NOT sell anything without user input.
 
+https://en-forum.guildwars2.com/discussion/352/policy-third-party-programs-multi-boxing-macros
+
 ### Can this addon delete or sell wrong items?
-Pretty unlikely when nothing changes.
+Not when the correct version is used. And pretty unlikely when something changes.
 
 ### My game crashes everytime when I do X. What should I do?
 Rename/Remove the .dll from your bin64 folder and send me the .log file generated in the "%installation-path%\addons\incqol\" folder. Tell me how to reproduce the crash so I can look into it.
