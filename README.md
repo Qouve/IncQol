@@ -46,14 +46,26 @@ If you have ideas for more quality of life improvements, just tell me and I will
 
 If you need help with something then just message me on reddit (u/Qouve) / ingame (Qeve.5743)
 
+### Video Showcase
+
+https://www.youtube.com/watch?v=AqnaMiHAJdo
+
 # FAQ
+### How to create filters?
+You can Left-Click on "Root Filter" button to create filters 
+
+You can Right-Click on any filter and click the "Add Filter" button to add a child filter
+
 ### Where can I reset the configs?
 If you want to reset your configs, you can delete the config files in the "%installation-path%\addons\incqol\" folder
 
 ### How can I disable selling/filtering?
 You can disable the selling/filtering in the config or remove the d3d9.dll completely
 
-### I dont see anything? What are the default hotkeys?
+### Why can't I save a filter?
+Make sure you have the rights to create and save files in the filters folder
+
+### I don't see anything? What are the default hotkeys?
 Shift+Alt+1 to open the options window, where you can see all hotkeys
 
 Shift+Alt+2 to open the filter window
@@ -62,8 +74,12 @@ Shift+Alt+3 to open the small filter window
 
 Shift+Alt+4 to add a filter with the current hovered item
 
+### Adding the current hovered item is useless, since I have to recreate the filter inside the correct group?
+
+You can drag and drop the created filter into a group filter
+
 ### Some hotkeys are wrong?
-It can happen that some hotkeys are not correctly displayed.
+It can happen that some hotkeys are not correctly displayed, but they will work.
 
 Something like that happened when I had my OS language on german.
 
