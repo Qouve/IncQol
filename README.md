@@ -104,10 +104,12 @@ If you need help with something then just message me on reddit (u/Qouve) / ingam
 https://www.youtube.com/watch?v=AqnaMiHAJdo
 
 # FAQ
-### How to create filters?
+### How to change filters?
 You can Left-Click on "Root Filter" button to create filters 
 
 You can Right-Click on any filter and click the "Add Filter" button to add a child filter
+
+You can Right-Click on any filter and delete it
 
 ### Where can I reset the configs?
 If you want to reset your configs, you can delete the config files in the "%installation-path%\addons\incqol\" folder
