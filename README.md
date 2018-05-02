@@ -26,6 +26,7 @@ This addon can also be chainloaded (tested with arcDPS)
 - Sell filtered items when pressing "Sell Junk" in any vendor tab
 - Export / Import custom filters
 - Customizing the addon
+- Drag and drop filter
 - more soon?
 
 At default, the addon will never filter three rarities (junk,ascended,legendary), ascended can be unlocked in the config(for securitiy purposes).
