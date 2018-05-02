@@ -46,6 +46,59 @@ If you have ideas for more quality of life improvements, just tell me and I will
 
 If you need help with something then just message me on reddit (u/Qouve) / ingame (Qeve.5743)
 
+# Tutorial for a simple runes/sigils filter from start
+
+1. Copy the d3d9.dll in your bin64 folder
+2. Start your game
+3. You will see the following screen:
+
+![options](https://user-images.githubusercontent.com/37458063/39544349-18c1d542-4e4e-11e8-8986-328e7fa417c1.png)
+
+4. That is the option window where you can customize the addon, you can close it for now with the top right button. (To get it back press shift+alt+1)
+
+5. Press shift+alt+2 to open the filter window
+
+![filterwindow](https://user-images.githubusercontent.com/37458063/39545189-b6391298-4e50-11e8-8620-367fcbf1dcd3.png)
+
+6. Now you can create your runes/sigils filter. To start, Left-Click on "Root Filter" and navigate to "Add Filter->Basic Filters->Group Filter"
+
+![groupfilter](https://user-images.githubusercontent.com/37458063/39545158-9e93bbfc-4e50-11e8-8a29-92e4209daad5.png)
+
+7. Left-Click on "Group Filter"
+
+8. Left-Click on the created filter will open it, you will see different attributes (inverted,name,operation).
+
+![groupfilter2](https://user-images.githubusercontent.com/37458063/39545200-be725384-4e50-11e8-88ab-42d5703b2d17.png)
+
+9. Right-Click on the created filter header (marked red on the picture above) and navigate to "Add Filter->Basic Filters->Type Filter" and perform a Left-Click
+
+10. Change the value of the created type filter to UpgradeComponent
+
+![typefilter](https://user-images.githubusercontent.com/37458063/39545217-c987b7d2-4e50-11e8-9809-9258dfef09a1.png)
+
+11. Right-Click on the type filter header and perform a Left-Click on "Add Sub Filter"
+
+12. Change the value of the created sub type filter to Rune
+
+11. Right-Click on the type filter header and perform a Left-Click on "Add Sub Filter"
+
+12. Change the value of the created sub type filter to Sigil
+
+13. Change the operation of the type filter to "Or"
+
+![subtypesfilter](https://user-images.githubusercontent.com/37458063/39545221-ca5e0314-4e50-11e8-89ee-7ff2972e77fb.png)
+
+14. Right-Click on the group filter and navigate to "Add Filter->Range Filters->Rarity Filter" and perform a Left-Click
+
+![groupfilter3](https://user-images.githubusercontent.com/37458063/39545252-e0b29684-4e50-11e8-827f-74d06fa6be88.png)
+
+15. Change the boundaries to "Masterwork" and "Rare"
+
+![rarityfilter](https://user-images.githubusercontent.com/37458063/39545251-dff01a96-4e50-11e8-9fee-a80b7d7c292a.png)
+
+
+16. You can close the window via the top right button and you are done.
+
 ### Video Showcase
 
 https://www.youtube.com/watch?v=AqnaMiHAJdo
