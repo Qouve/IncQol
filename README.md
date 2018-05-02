@@ -96,14 +96,20 @@ If you need help with something then just message me on reddit (u/Qouve) / ingam
 
 ![rarityfilter](https://user-images.githubusercontent.com/37458063/39545251-dff01a96-4e50-11e8-9fee-a80b7d7c292a.png)
 
-
 16. You can close the window via the top right button and you are done.
 
 ### Video Showcase
 
+The video is showcasing an approach on how to create the filter (it is **outdated** but shows the procedure to create a filter, if you want the real sigils/runes filter either download the MasterworkAndRareSigil.filter and import it or read the tutorial)
+
 https://www.youtube.com/watch?v=AqnaMiHAJdo
 
 # FAQ
+### Where can I import a filter?
+To import a filter you have to navigate to the following folder "%installation-path%\addons\incqol\filters" and save it.
+
+If the folder does not exist you can create one.
+
 ### How to change filters?
 You can Left-Click on "Root Filter" button to create filters 
 
