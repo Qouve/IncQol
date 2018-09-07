@@ -46,6 +46,10 @@ If you have ideas for more quality of life improvements, just tell me and I will
 
 If you need help with something then just message me on reddit (u/Qouve) / ingame (Qeve.5743)
 
+
+# Current Bugs?
+The gameclient .exe has to be named "Gw2-64.exe"
+
 # Tutorial for a simple runes/sigils filter
 
 1. Copy the d3d9.dll in your bin64 folder
